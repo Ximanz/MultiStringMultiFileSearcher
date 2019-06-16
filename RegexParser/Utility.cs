@@ -40,7 +40,7 @@ namespace MultiRegexSearcher
                     // Check that the match is the end of the word, and doesn't continue as a longer string
                     if (checkEnding)
                     {
-                        if ((searchInput.Length > i + length) && !NonWordRegex.IsMatch(searchInput.Substring(i + length, 1)))
+                        if ((searchInput.Length > i + length) && !NonWordRegex.IsMatch(searchInput.Substring(i + length - 1, 1)))
                         {
                             i += length - 2;
                             continue;
@@ -82,7 +82,7 @@ namespace MultiRegexSearcher
         /// <param name="searchStrings">Collection of search strings</param>
         /// <param name="batchSize">The number of search strings to process at a time while building the DFA</param>
         /// <returns></returns>
-        public static FSM BuildDFA(IEnumerable<string> searchStrings, int batchSize = 100)
+        public static FSM BuildDFA(IEnumerable<string> searchStrings, int batchSize = 100, bool caseSensitive = false)
         {
             
             var batches = GetBatches(searchStrings, batchSize);
@@ -90,7 +90,7 @@ namespace MultiRegexSearcher
 
             foreach (var batch in batches)
             {
-                var regexCollection = batch.Select(k => new Regex(k.ToLower()));
+                var regexCollection = batch.Select(k => new Regex(caseSensitive ? k : k.ToLower()));
 
                 FSM NFA = new FSM();
                 foreach (var regex in regexCollection)

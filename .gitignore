@@ -1,1 +1,18 @@
 /.vs
+
+# Visual Studio
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.tlb
+*.suo
+*.user
+*.ncb
+*.snk
+*.aps

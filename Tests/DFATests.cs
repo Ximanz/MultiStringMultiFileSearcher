@@ -16,7 +16,6 @@ namespace Tests
 
             regexes.Add(new Regex("cats"));
             regexes.Add(new Regex("dogs"));
-            regexes.Add(new Regex("jelly"));
 
             FSM NFA = new FSM();
             regexes.ForEach(regex => NFA |= FSM.Parse(regex.ToString()));
@@ -26,13 +25,16 @@ namespace Tests
             var testString2 = "those cats are feral";
             var testString3 = "the truth about cats and dogs";
             var testString4 = "a string \\W separation characters like cats.dogs works";
-            var testString5 = "a string with no separation like catsdogs won't work";
+            var testString5 = "a string with no separation like catsdogs will depend on the parameters used for matching";
 
             var matches1 = DFA.FindMatches(testString1).ToList();
             var matches2 = DFA.FindMatches(testString2).ToList();
             var matches3 = DFA.FindMatches(testString3).ToList();
             var matches4 = DFA.FindMatches(testString4).ToList();
             var matches5 = DFA.FindMatches(testString5).ToList();
+            var matches6 = DFA.FindMatches(testString5, checkStarting: true).ToList();
+            var matches7 = DFA.FindMatches(testString5, checkEnding: true).ToList();
+            var matches8 = DFA.FindMatches(testString5, checkStarting: true, checkEnding: true).ToList();
 
             Assert.Empty(matches1);
             Assert.Single(matches2);
@@ -43,12 +45,17 @@ namespace Tests
             Assert.Equal(2, matches4.Count);
             Assert.Contains("cats", matches4);
             Assert.Contains("dogs", matches4);
-            Assert.Single(matches5);
+            Assert.Equal(2, matches5.Count);
             Assert.Contains("cats", matches5);
+            Assert.Single(matches6);
+            Assert.Contains("cats", matches6);
+            Assert.Single(matches7);
+            Assert.Contains("dogs", matches7);
+            Assert.Empty(matches8);
         }
 
         [Fact]
-        public void TestBuildDFA()
+        public void TestBuildDFACaseInsensitive()
         {
             var totalSize = 100;
             var batchSize = 10;
@@ -61,10 +68,12 @@ namespace Tests
                 testStrings.Add(GenerateRandomString(testStringLength));
             }
 
-            var DFA = Utility.BuildDFA(testStrings, batchSize);
+            var DFA = Utility.BuildDFA(testStrings, batchSize, false);
             var testString = string.Join(",", testStrings);
+            var testStringLowercase = testString.ToLower();
 
-            var matches = DFA.FindMatches(testString).Distinct().ToList();
+            // Match the original string, should find all matches
+            var matches = DFA.FindMatches(testString, false).Distinct().ToList();
 
             Assert.Equal(totalSize, matches.Count);
 
@@ -72,7 +81,47 @@ namespace Tests
             {
                 Assert.False(testStrings.Add(match));
             }
+
+            // Match the lowercase version of the original string, should still find all matches
+            matches = DFA.FindMatches(testStringLowercase, false).Distinct().ToList();
+
+            Assert.Equal(totalSize, matches.Count);
         }
+
+        [Fact]
+        public void TestBuildDFACaseSensitive()
+        {
+            var totalSize = 100;
+            var batchSize = 10;
+            var testStringLength = 8;
+
+            var testStrings = new HashSet<string>();
+
+            while (testStrings.Count < totalSize)
+            {
+                testStrings.Add(GenerateRandomString(testStringLength));
+            }
+
+            var DFA = Utility.BuildDFA(testStrings, batchSize, true);
+            var testString = string.Join(",", testStrings);
+            var testStringLowercase = testString.ToLower();
+
+            // Match the original string, should find all matches
+            var matches = DFA.FindMatches(testString, true).Distinct().ToList();
+
+            Assert.Equal(totalSize, matches.Count);
+
+            foreach (var match in matches)
+            {
+                Assert.False(testStrings.Add(match));
+            }
+
+            // Match the lowercase version of the original string, should not find all matches
+            matches = DFA.FindMatches(testStringLowercase, true).Distinct().ToList();
+
+            Assert.True(totalSize > matches.Count);
+        }
+
 
         private string GenerateRandomString(int length)
         {
