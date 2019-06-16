@@ -1,0 +1,17 @@
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\AppConfig.cs
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\appsettings.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\NLog.config
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.deps.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.runtimeconfig.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.runtimeconfig.dev.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\MultiRegexSearcher.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\win-x64\MultiRegexSearcher.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.csprojAssemblyReference.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.csproj.CoreCompileInputs.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.AssemblyInfoInputs.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.AssemblyInfo.cs
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.csproj.CopyComplete
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\win-x64\GenerateGraphForStreams.pdb

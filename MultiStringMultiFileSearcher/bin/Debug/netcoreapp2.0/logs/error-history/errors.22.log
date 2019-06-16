@@ -1,0 +1,4 @@
+2019/06/10 16:30:05.278|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 16:30:05.583|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 16:30:05.762|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 16:31:24.260|ERROR|Stopped program because of exception An item with the same key has already been added. Key: c:\git\streams\core\as\secureproxy|GenerateGraphForStreams.Program|

@@ -1,0 +1,487 @@
+2019/06/11 20:58:50.087|INFO|Loading dbobj data from db\streams. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.505|INFO|Loading dbobj data from db\Streams_Log. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.505|INFO|Searching code base for Web Services and Methods |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.521|INFO|Searching in c:\git\streams\ac |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.576|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.601|INFO|Searching in c:\git\streams\aid |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.621|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.634|INFO|Searching in c:\git\streams\am |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.691|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.704|INFO|Searching in c:\git\streams\anpr |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.738|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.753|INFO|Searching in c:\git\streams\core |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.808|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.824|INFO|Searching in c:\git\streams\diag |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.841|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.849|INFO|Searching in c:\git\streams\dms |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.938|INFO|Found 3 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:50.961|INFO|Searching in c:\git\streams\ds |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.016|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.034|INFO|Searching in c:\git\streams\em |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.045|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.045|INFO|Searching in c:\git\streams\er |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.150|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.170|INFO|Searching in c:\git\streams\esls |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.199|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.199|INFO|Searching in c:\git\streams\fr |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.298|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.316|INFO|Searching in c:\git\streams\help |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.319|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.319|INFO|Searching in c:\git\streams\ig |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.346|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.359|INFO|Searching in c:\git\streams\im |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.465|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.465|INFO|Searching in c:\git\streams\install |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.542|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.542|INFO|Searching in c:\git\streams\int |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.705|INFO|Found 5 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.744|INFO|Searching in c:\git\streams\itl |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.782|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:51.800|INFO|Searching in c:\git\streams\lib |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.203|INFO|Found 3 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.222|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/11 20:58:52.229|INFO|Searching in c:\git\streams\lums |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.304|INFO|Found 4 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.340|INFO|Searching in c:\git\streams\msd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.396|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.396|INFO|Searching in c:\git\streams\mvt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.427|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.427|INFO|Searching in c:\git\streams\npi |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.470|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.488|INFO|Searching in c:\git\streams\pd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.506|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.506|INFO|Searching in c:\git\streams\pg |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.542|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.554|INFO|Searching in c:\git\streams\pkg |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.577|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.589|INFO|Searching in c:\git\streams\pm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.620|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.630|INFO|Searching in c:\git\streams\pres |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.745|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.745|INFO|Searching in c:\git\streams\prx |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.781|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.781|INFO|Searching in c:\git\streams\ps |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.815|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.817|INFO|Searching in c:\git\streams\pt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.857|INFO|Found 3 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.891|INFO|Searching in c:\git\streams\ptd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.917|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.930|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/11 20:58:52.930|INFO|Searching in c:\git\streams\rai |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.952|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.964|INFO|Searching in c:\git\streams\ride |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:52.997|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.015|INFO|Searching in c:\git\streams\rm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.189|INFO|Found 5 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.227|INFO|Searching in c:\git\streams\rp |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.307|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.327|INFO|Searching in c:\git\streams\rte |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.407|INFO|Found 4 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.418|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/11 20:58:53.443|INFO|Searching in c:\git\streams\s2s |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.443|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.443|INFO|Searching in c:\git\streams\schm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.526|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.551|INFO|Searching in c:\git\streams\sd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.572|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.572|INFO|Searching in c:\git\streams\si |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.622|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.622|INFO|Searching in c:\git\streams\sim |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.630|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.630|INFO|Searching in c:\git\streams\sm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.711|INFO|Found 3 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.742|INFO|Searching in c:\git\streams\sr |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.815|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.828|INFO|Searching in c:\git\streams\tem |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.908|INFO|Found 7 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.963|INFO|Searching in c:\git\streams\tgp |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.980|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:53.980|INFO|Searching in c:\git\streams\tn |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.049|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.066|INFO|Searching in c:\git\streams\tools |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.282|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.285|INFO|Searching in c:\git\streams\tt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.321|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.321|INFO|Searching in c:\git\streams\vc |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.350|INFO|Found 2 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.370|INFO|Searching in c:\git\streams\vd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.445|INFO|Found 4 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.475|INFO|Searching in c:\git\streams\vid |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.503|INFO|Found 1 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.520|INFO|Searching in c:\git\streams\vm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.576|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.576|INFO|Searching in c:\git\streams\vsl |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.614|INFO|Found 3 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.634|INFO|Searching in c:\git\streams\vt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.645|INFO|Found 0 .asmx files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.645|INFO|Searching code base for software projects |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.645|INFO|Searching in c:\git\streams\ac |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.645|INFO|Searching in c:\git\streams\ac\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.662|INFO|Found 15 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.754|INFO|Skipping c:\git\streams\ac\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.754|INFO|Skipping c:\git\streams\ac\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.754|INFO|Searching in c:\git\streams\ac\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.754|INFO|Found 5 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.803|INFO|Searching in c:\git\streams\aid |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.803|INFO|Searching in c:\git\streams\aid\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.803|INFO|Found 5 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.838|INFO|Searching in c:\git\streams\aid\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.838|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.867|INFO|Searching in c:\git\streams\am |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.867|INFO|Searching in c:\git\streams\am\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:54.889|INFO|Found 23 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.018|INFO|Skipping c:\git\streams\am\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.020|INFO|Skipping c:\git\streams\am\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.020|INFO|Searching in c:\git\streams\am\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.020|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.048|INFO|Searching in c:\git\streams\anpr |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.048|INFO|Searching in c:\git\streams\anpr\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.062|INFO|Found 10 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.114|INFO|Skipping c:\git\streams\anpr\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.114|INFO|Skipping c:\git\streams\anpr\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.114|INFO|Searching in c:\git\streams\anpr\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.114|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.141|INFO|Searching in c:\git\streams\core |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.141|INFO|Searching in c:\git\streams\core\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.170|INFO|Found 12 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.244|INFO|Skipping c:\git\streams\core\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.244|INFO|Skipping c:\git\streams\core\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.244|INFO|Searching in c:\git\streams\core\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.255|INFO|Found 10 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.312|INFO|Searching in c:\git\streams\diag |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.312|INFO|Searching in c:\git\streams\diag\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.321|INFO|Found 11 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.387|INFO|Searching in c:\git\streams\diag\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.387|INFO|Found 6 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.426|INFO|Searching in c:\git\streams\dms |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.430|INFO|Skipping c:\git\streams\dms\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.430|INFO|Searching in c:\git\streams\dms\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.447|INFO|Found 25 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.594|INFO|Skipping c:\git\streams\dms\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.594|INFO|Skipping c:\git\streams\dms\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.603|INFO|Searching in c:\git\streams\dms\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.624|INFO|Found 9 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.677|INFO|Searching in c:\git\streams\ds |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.677|INFO|Skipping c:\git\streams\ds\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.677|INFO|Searching in c:\git\streams\ds\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.691|INFO|Found 15 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.776|INFO|Skipping c:\git\streams\ds\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.776|INFO|Skipping c:\git\streams\ds\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.776|INFO|Searching in c:\git\streams\ds\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.791|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.817|INFO|Searching in c:\git\streams\em |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.817|INFO|Searching in c:\git\streams\em\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.817|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.845|INFO|Skipping c:\git\streams\em\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.849|INFO|Skipping c:\git\streams\em\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.849|INFO|Searching in c:\git\streams\em\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.849|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.873|INFO|Searching in c:\git\streams\er |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.873|INFO|Searching in c:\git\streams\er\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.882|INFO|Found 11 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.943|INFO|Skipping c:\git\streams\er\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.943|INFO|Skipping c:\git\streams\er\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.943|INFO|Searching in c:\git\streams\er\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:55.974|INFO|Found 14 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.050|INFO|Searching in c:\git\streams\esls |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.052|INFO|Searching in c:\git\streams\esls\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.052|INFO|Found 1 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.052|INFO|Skipping c:\git\streams\esls\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.052|INFO|Searching in c:\git\streams\esls\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.074|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.090|INFO|Searching in c:\git\streams\fr |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.090|INFO|Searching in c:\git\streams\fr\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.109|INFO|Found 18 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.218|INFO|Skipping c:\git\streams\fr\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.218|INFO|Skipping c:\git\streams\fr\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.218|INFO|Searching in c:\git\streams\fr\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.243|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.275|INFO|Searching in c:\git\streams\help |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.275|INFO|Searching in c:\git\streams\help\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.275|INFO|Found 0 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.275|INFO|Searching in c:\git\streams\ig |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.275|INFO|Searching in c:\git\streams\ig\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.291|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.319|INFO|Skipping c:\git\streams\ig\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.319|INFO|Searching in c:\git\streams\ig\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.319|INFO|Found 8 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.391|INFO|Searching in c:\git\streams\im |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.391|INFO|Searching in c:\git\streams\im\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.401|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.426|INFO|Skipping c:\git\streams\im\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.428|INFO|Skipping c:\git\streams\im\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.428|INFO|Searching in c:\git\streams\im\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.459|INFO|Found 30 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.625|INFO|Searching in c:\git\streams\install |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.625|INFO|Searching in c:\git\streams\install\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.651|INFO|Found 7 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.700|INFO|Searching in c:\git\streams\install\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.715|INFO|Found 23 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.837|INFO|Searching in c:\git\streams\int |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.837|INFO|Searching in c:\git\streams\int\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:56.860|INFO|Found 26 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.081|INFO|Skipping c:\git\streams\int\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.085|INFO|Skipping c:\git\streams\int\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.085|INFO|Searching in c:\git\streams\int\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.141|INFO|Found 34 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.362|INFO|Searching in c:\git\streams\itl |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.365|INFO|Searching in c:\git\streams\itl\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.365|INFO|Found 9 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.435|INFO|Skipping c:\git\streams\itl\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.435|INFO|Skipping c:\git\streams\itl\design |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.435|INFO|Skipping c:\git\streams\itl\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.443|INFO|Searching in c:\git\streams\itl\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.463|INFO|Found 6 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.512|INFO|Searching in c:\git\streams\lib |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.512|INFO|Searching in c:\git\streams\lib\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.547|INFO|Found 34 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.775|INFO|Skipping c:\git\streams\lib\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.775|INFO|Skipping c:\git\streams\lib\design |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.775|INFO|Skipping c:\git\streams\lib\include |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.775|INFO|Skipping c:\git\streams\lib\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.775|INFO|Searching in c:\git\streams\lib\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:57.877|INFO|Found 89 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.337|INFO|Searching in c:\git\streams\lums |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.337|INFO|Skipping c:\git\streams\lums\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.337|INFO|Searching in c:\git\streams\lums\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.350|INFO|Found 9 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.401|INFO|Skipping c:\git\streams\lums\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.401|INFO|Skipping c:\git\streams\lums\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.401|INFO|Searching in c:\git\streams\lums\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.421|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.443|INFO|Searching in c:\git\streams\msd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.443|INFO|Skipping c:\git\streams\msd\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.443|INFO|Searching in c:\git\streams\msd\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.443|INFO|Found 12 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.524|INFO|Skipping c:\git\streams\msd\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.524|INFO|Skipping c:\git\streams\msd\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.524|INFO|Searching in c:\git\streams\msd\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.546|INFO|Found 10 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.602|INFO|Searching in c:\git\streams\mvt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.602|INFO|Searching in c:\git\streams\mvt\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.602|INFO|Found 5 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.644|INFO|Skipping c:\git\streams\mvt\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.648|INFO|Skipping c:\git\streams\mvt\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.648|INFO|Searching in c:\git\streams\mvt\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.648|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.679|INFO|Searching in c:\git\streams\npi |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.679|INFO|Searching in c:\git\streams\npi\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.679|INFO|Found 7 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.728|INFO|Skipping c:\git\streams\npi\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.728|INFO|Skipping c:\git\streams\npi\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.728|INFO|Searching in c:\git\streams\npi\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.728|INFO|Found 3 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.763|INFO|Searching in c:\git\streams\pd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.763|INFO|Searching in c:\git\streams\pd\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.769|INFO|Found 5 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.799|INFO|Skipping c:\git\streams\pd\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.801|INFO|Searching in c:\git\streams\pd\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.801|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.834|INFO|Searching in c:\git\streams\pg |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.834|INFO|Searching in c:\git\streams\pg\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.834|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.872|INFO|Skipping c:\git\streams\pg\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.872|INFO|Skipping c:\git\streams\pg\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.872|INFO|Searching in c:\git\streams\pg\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.882|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.908|INFO|Searching in c:\git\streams\pkg |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.908|INFO|Searching in c:\git\streams\pkg\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.916|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.941|INFO|Skipping c:\git\streams\pkg\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.941|INFO|Searching in c:\git\streams\pkg\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:58.941|INFO|Found 10 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.000|INFO|Searching in c:\git\streams\pm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.000|INFO|Searching in c:\git\streams\pm\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.013|INFO|Found 9 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.077|INFO|Skipping c:\git\streams\pm\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.077|INFO|Skipping c:\git\streams\pm\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.077|INFO|Searching in c:\git\streams\pm\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.090|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.105|INFO|Searching in c:\git\streams\pres |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.105|INFO|Skipping c:\git\streams\pres\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.105|INFO|Skipping c:\git\streams\pres\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.105|INFO|Searching in c:\git\streams\pres\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.149|INFO|Found 51 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.406|INFO|Searching in c:\git\streams\prx |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.406|INFO|Searching in c:\git\streams\prx\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.413|INFO|Found 1 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.413|INFO|Skipping c:\git\streams\prx\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.413|INFO|Skipping c:\git\streams\prx\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.413|INFO|Searching in c:\git\streams\prx\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.437|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.453|INFO|Searching in c:\git\streams\ps |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.453|INFO|Searching in c:\git\streams\ps\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.467|INFO|Found 7 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.521|INFO|Skipping c:\git\streams\ps\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.521|INFO|Searching in c:\git\streams\ps\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.521|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.544|INFO|Searching in c:\git\streams\pt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.544|INFO|Searching in c:\git\streams\pt\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.553|INFO|Found 7 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.599|INFO|Skipping c:\git\streams\pt\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.599|INFO|Searching in c:\git\streams\pt\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.599|INFO|Found 14 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.689|INFO|Searching in c:\git\streams\ptd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.691|INFO|Searching in c:\git\streams\ptd\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.691|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.713|INFO|Skipping c:\git\streams\ptd\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.713|INFO|Skipping c:\git\streams\ptd\ptd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.713|INFO|Skipping c:\git\streams\ptd\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.713|INFO|Searching in c:\git\streams\rai |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.713|INFO|Searching in c:\git\streams\rai\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.724|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.739|INFO|Searching in c:\git\streams\rai\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.739|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.758|INFO|Searching in c:\git\streams\ride |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.758|INFO|Skipping c:\git\streams\ride\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.758|INFO|Searching in c:\git\streams\ride\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.758|INFO|Found 8 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.819|INFO|Skipping c:\git\streams\ride\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.819|INFO|Skipping c:\git\streams\ride\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.819|INFO|Searching in c:\git\streams\ride\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.819|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.842|INFO|Searching in c:\git\streams\rm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.842|INFO|Skipping c:\git\streams\rm\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.847|INFO|Searching in c:\git\streams\rm\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:58:59.902|INFO|Found 25 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.063|INFO|Skipping c:\git\streams\rm\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.068|INFO|Skipping c:\git\streams\rm\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.068|INFO|Searching in c:\git\streams\rm\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.108|INFO|Found 26 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.237|INFO|Searching in c:\git\streams\rp |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.242|INFO|Skipping c:\git\streams\rp\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.242|INFO|Searching in c:\git\streams\rp\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.242|INFO|Found 9 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.297|INFO|Skipping c:\git\streams\rp\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.297|INFO|Skipping c:\git\streams\rp\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.297|INFO|Searching in c:\git\streams\rp\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.328|INFO|Found 17 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.413|INFO|Searching in c:\git\streams\rte |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.413|INFO|Searching in c:\git\streams\rte\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.413|INFO|Found 9 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.468|INFO|Skipping c:\git\streams\rte\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.468|INFO|Skipping c:\git\streams\rte\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.468|INFO|Searching in c:\git\streams\rte\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.519|INFO|Found 23 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.643|INFO|Searching in c:\git\streams\s2s |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.647|INFO|Searching in c:\git\streams\s2s\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.647|INFO|Found 1 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.647|INFO|Skipping c:\git\streams\s2s\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.647|INFO|Searching in c:\git\streams\s2s\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.660|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.660|INFO|Searching in c:\git\streams\schm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.676|INFO|Skipping c:\git\streams\schm\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.676|INFO|Searching in c:\git\streams\schm\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.676|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.735|INFO|Searching in c:\git\streams\schm\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.755|INFO|Found 3 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.797|INFO|Searching in c:\git\streams\sd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.824|INFO|Searching in c:\git\streams\sd\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.824|INFO|Found 1 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.841|INFO|Skipping c:\git\streams\sd\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.841|INFO|Skipping c:\git\streams\sd\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.841|INFO|Searching in c:\git\streams\sd\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.858|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.914|INFO|Searching in c:\git\streams\si |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.951|INFO|Skipping c:\git\streams\si\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.951|INFO|Searching in c:\git\streams\si\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.958|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.982|INFO|Skipping c:\git\streams\si\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.982|INFO|Skipping c:\git\streams\si\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.989|INFO|Searching in c:\git\streams\si\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:00.989|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.033|INFO|Searching in c:\git\streams\sim |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.035|INFO|Searching in c:\git\streams\sim\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.035|INFO|Found 1 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.052|INFO|Searching in c:\git\streams\sim\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.052|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.070|INFO|Searching in c:\git\streams\sm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.070|INFO|Skipping c:\git\streams\sm\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.070|INFO|Searching in c:\git\streams\sm\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.070|INFO|Found 7 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.123|INFO|Skipping c:\git\streams\sm\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.123|INFO|Skipping c:\git\streams\sm\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.129|INFO|Searching in c:\git\streams\sm\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.155|INFO|Found 14 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.242|INFO|Searching in c:\git\streams\sr |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.242|INFO|Searching in c:\git\streams\sr\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.242|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.276|INFO|Searching in c:\git\streams\tem |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.276|INFO|Skipping c:\git\streams\tem\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.276|INFO|Searching in c:\git\streams\tem\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.293|INFO|Found 11 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.360|INFO|Skipping c:\git\streams\tem\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.360|INFO|Searching in c:\git\streams\tem\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.382|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.403|INFO|Searching in c:\git\streams\tgp |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.431|INFO|Searching in c:\git\streams\tgp\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.444|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.462|INFO|Searching in c:\git\streams\tgp\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.462|INFO|Found 8 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.519|INFO|Searching in c:\git\streams\tn |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.519|INFO|Skipping c:\git\streams\tn\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.519|INFO|Searching in c:\git\streams\tn\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.519|INFO|Found 13 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.618|INFO|Skipping c:\git\streams\tn\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.618|INFO|Skipping c:\git\streams\tn\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.618|INFO|Searching in c:\git\streams\tn\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.650|INFO|Found 34 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.821|INFO|Searching in c:\git\streams\tools |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.821|INFO|Searching in c:\git\streams\tools\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.821|INFO|Found 15 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.926|INFO|Skipping c:\git\streams\tools\build |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.926|INFO|Skipping c:\git\streams\tools\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.926|INFO|Skipping c:\git\streams\tools\loadtest |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.926|INFO|Skipping c:\git\streams\tools\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.926|INFO|Searching in c:\git\streams\tools\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:01.946|INFO|Found 12 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.052|INFO|Searching in c:\git\streams\tt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.052|INFO|Skipping c:\git\streams\tt\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.052|INFO|Searching in c:\git\streams\tt\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.052|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.093|INFO|Skipping c:\git\streams\tt\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.093|INFO|Searching in c:\git\streams\tt\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.106|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.126|INFO|Searching in c:\git\streams\vc |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.126|INFO|Searching in c:\git\streams\vc\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.135|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.166|INFO|Searching in c:\git\streams\vc\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.166|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.200|INFO|Searching in c:\git\streams\vd |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.200|INFO|Searching in c:\git\streams\vd\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.232|INFO|Found 26 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.367|INFO|Skipping c:\git\streams\vd\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.367|INFO|Skipping c:\git\streams\vd\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.367|INFO|Searching in c:\git\streams\vd\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.389|INFO|Found 18 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.490|INFO|Searching in c:\git\streams\vid |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.490|INFO|Searching in c:\git\streams\vid\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.490|INFO|Found 8 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.533|INFO|Skipping c:\git\streams\vid\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.536|INFO|Skipping c:\git\streams\vid\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.536|INFO|Searching in c:\git\streams\vid\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.536|INFO|Found 6 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.583|INFO|Searching in c:\git\streams\vm |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.583|INFO|Skipping c:\git\streams\vm\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.583|INFO|Searching in c:\git\streams\vm\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.583|INFO|Found 8 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.654|INFO|Skipping c:\git\streams\vm\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.654|INFO|Skipping c:\git\streams\vm\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.654|INFO|Searching in c:\git\streams\vm\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.676|INFO|Found 12 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.747|INFO|Searching in c:\git\streams\vsl |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.747|INFO|Skipping c:\git\streams\vsl\ait |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.747|INFO|Searching in c:\git\streams\vsl\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.754|INFO|Found 6 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.792|INFO|Skipping c:\git\streams\vsl\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.792|INFO|Searching in c:\git\streams\vsl\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.804|INFO|Found 12 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.880|INFO|Searching in c:\git\streams\vt |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.880|INFO|Searching in c:\git\streams\vt\as |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.880|INFO|Found 4 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.914|INFO|Skipping c:\git\streams\vt\common |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.914|INFO|Skipping c:\git\streams\vt\test |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.914|INFO|Searching in c:\git\streams\vt\ws |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.914|INFO|Found 2 project files |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 20:59:02.940|WARN|Multiple web components of the same name were found.  Tsd.VariableSpeedLimit.ApplicationServer.SpeedRequestValidation.RequestValidationService:c:\git\streams\vsl\as\SpeedRequestValidation\RequestValidation.asmx|c:\git\streams\vsl\as\SpeedRequestValidation\RequestValidationService.asmx |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/11 20:59:02.952|WARN|Multiple software components of the same name were found.  anprsvc:c:\git\streams\anpr\as\anprsvc\anprsvc.vcxproj|c:\git\streams\msd\as\msdaggsvc\msdaggsvc.vcxproj|c:\git\streams\msd\as\msdsvc\msdsvc.vcxproj,secureproxy:c:\git\streams\core\as\secureproxy\secureproxy.vcxproj|c:\git\streams\core\as\secureproxy\secureproxy2.vcxproj,aslexUnitTests:c:\git\streams\dms\as\dmsbitmap\UnitTests\dmsbitmap.UnitTests.vcxproj|c:\git\streams\lib\as\aslex\UnitTests\aslex.UnitTests.vcxproj,em2svc:c:\git\streams\em\as\em2svc\em2svc.vcxproj|c:\git\streams\em\as\wgbsvc\wgbsvc.vcxproj|c:\git\streams\ride\as\icestationsvc\icestationsvc.vcxproj|c:\git\streams\ride\as\pumpsvc\pumpsvc.vcxproj|c:\git\streams\ride\as\towallocsvc\towallocsvc.vcxproj,UnitTests:c:\git\streams\lib\as\asdb\UnitTests\asdb.UnitTests.vcxproj|c:\git\streams\tools\as\Genusernotes2\UnitTests\UnitTests.csproj,Tsd.NationalPerformanceIndicator.ApplicationServer.NPIHMReportWebSvc.UnitTests:c:\git\streams\npi\as\NPIHMReportWebSvc\NPIHMReportWebSvc.UnitTests.csproj|c:\git\streams\npi\as\NPIHMReportWebSvc\UnitTests\NPIHMReportWebSvc.UnitTests.csproj,npisvc:c:\git\streams\npi\as\npirecalsvc\npirecalsvc.vcxproj|c:\git\streams\npi\as\npisvc\npisvc.vcxproj |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30

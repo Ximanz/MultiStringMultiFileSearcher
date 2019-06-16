@@ -1,0 +1,4 @@
+2019/06/10 12:22:00.570|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 12:22:01.000|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 12:22:01.315|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 12:22:19.434|ERROR|Stopped program because of exception An item with the same key has already been added. Key: Tsd.VariableSpeedLimit.ApplicationServer.SpeedRequestValidation.RequestValidationService|GenerateGraphForStreams.Program|

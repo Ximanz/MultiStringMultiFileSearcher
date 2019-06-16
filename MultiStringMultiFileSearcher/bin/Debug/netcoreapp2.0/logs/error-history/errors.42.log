@@ -1,0 +1,3 @@
+2019/06/13 12:06:43.492|ERROR|Stopped program because of exception SyntaxException: Invalid input 'g': expected '\', ''', '"', 'b', 'f', 'n', 'r', 't', UTF16 or UTF32 (line 4, column 50 (offset: 157))
+"CREATE UNIQUE (fromObj)-[:REFERENCED_BY{file:"c:\git\streams\lib\as\asdb\Connection.cpp"}]->(toObj)"
+                                                     ^|GenerateGraphForStreams.Program|

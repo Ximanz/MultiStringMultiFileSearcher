@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenerateGraphForStreams": {
+      "commandName": "Project",
+      "commandLineArgs": "--directory c:\\git\\streams --server http://localhost:7474/db/data/ --username neo4j --password password"
+    }
+  }
+}

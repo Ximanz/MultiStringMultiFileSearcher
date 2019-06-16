@@ -1,0 +1,6 @@
+2019/06/11 15:40:36.164|INFO|Building Deterministic Finite Automaton for Table. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 15:41:18.366|INFO|Building Deterministic Finite Automaton for Views. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 15:41:52.756|INFO|Building Deterministic Finite Automaton for Stored Procedures. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 15:51:14.827|INFO|Building Deterministic Finite Automaton for Functions. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 15:51:23.835|INFO|Searching for DB relationships from Tables to Views in 448 files. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 15:52:18.609|INFO|Searching for DB relationships from Tables to StoredProcedures in 2397 files. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10

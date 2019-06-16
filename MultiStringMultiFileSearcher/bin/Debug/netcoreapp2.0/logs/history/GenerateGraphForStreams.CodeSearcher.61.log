@@ -1,0 +1,13 @@
+2019/06/13 10:49:42.100|INFO|Loading dbobj data from db\streams. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:42.421|INFO|Loading dbobj data from db\Streams_Log. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:42.439|INFO|Found 853 Tables. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:42.439|INFO|Found 446 Views. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:42.455|INFO|Found 2397 Stored Procedures. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:42.455|INFO|Found 183 Functions. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:42.455|INFO|Creating graph db nodes for 853 Tables. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:50.078|INFO|Creating graph db nodes for 446 Views. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:49:53.373|INFO|Creating graph db nodes for 2397 StoredProcedures. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:50:11.976|INFO|Creating graph db nodes for 183 Functions. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:50:13.826|INFO|Building Deterministic Finite Automaton for Table. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:51:10.410|INFO|Building Deterministic Finite Automaton for Views. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/13 10:51:39.194|INFO|Building Deterministic Finite Automaton for Stored Procedures. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10

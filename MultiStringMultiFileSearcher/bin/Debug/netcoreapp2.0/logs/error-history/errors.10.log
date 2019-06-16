@@ -1,0 +1,3 @@
+2019/06/10 12:58:25.317|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 12:58:26.142|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 12:58:26.396|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20

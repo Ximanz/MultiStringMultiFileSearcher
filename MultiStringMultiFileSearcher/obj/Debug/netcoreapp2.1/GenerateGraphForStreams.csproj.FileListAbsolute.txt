@@ -1,0 +1,14 @@
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\GenerateGraphForStreams.deps.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\GenerateGraphForStreams.runtimeconfig.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\GenerateGraphForStreams.runtimeconfig.dev.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\GenerateGraphForStreams.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.csprojAssemblyReference.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.csproj.CoreCompileInputs.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.AssemblyInfoInputs.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.AssemblyInfo.cs
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\GenerateGraphForStreams.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\RegexParser.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Debug\netcoreapp2.1\RegexParser.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Debug\netcoreapp2.1\GenerateGraphForStreams.csproj.CopyComplete

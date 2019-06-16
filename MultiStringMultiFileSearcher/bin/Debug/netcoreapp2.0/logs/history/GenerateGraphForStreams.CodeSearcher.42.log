@@ -1,0 +1,10 @@
+2019/06/11 14:59:16.650|INFO|Loading dbobj data from db\streams. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:17.094|INFO|Loading dbobj data from db\Streams_Log. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:17.113|INFO|Found 896 Tables. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:17.113|INFO|Found 456 Views. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:17.113|INFO|Found 2468 Stored Procedures. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:17.127|INFO|Found 189 Functions. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:17.127|INFO|Creating graph db nodes for 896 Tables. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:25.164|INFO|Creating graph db nodes for 456 Views. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:28.380|INFO|Creating graph db nodes for 2468 StoredProcedures. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 14:59:55.294|INFO|Creating graph db nodes for 189 Functions. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10

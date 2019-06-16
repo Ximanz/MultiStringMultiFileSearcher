@@ -1,0 +1,5 @@
+2019/06/10 13:20:42.200|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:20:42.512|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:20:42.661|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:23:04.391|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:23:05.271|ERROR|Stopped program because of exception Object reference not set to an instance of an object.|GenerateGraphForStreams.Program|

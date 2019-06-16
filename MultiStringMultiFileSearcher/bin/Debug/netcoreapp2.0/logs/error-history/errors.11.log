@@ -1,0 +1,6 @@
+2019/06/10 13:01:45.587|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:01:45.891|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:01:46.145|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:02:25.514|ERROR|Stopped program because of exception SyntaxException: Invalid input 'W': expected whitespace, [ or '-' (line 1, column 22 (offset: 21))
+"MERGE (code:Software-WEBMETHOD { Name: {name} })"
+                      ^|GenerateGraphForStreams.Program|

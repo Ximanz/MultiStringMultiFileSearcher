@@ -1,0 +1,4 @@
+2019/06/10 14:57:01.934|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 14:57:02.794|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 14:57:03.195|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 14:57:23.016|WARN|Multiple software components of the same name were found.  fontview:c:\git\streams\dms\test\fontview\fontview.vcxproj|c:\git\streams\dms\test\fontview_kerning\fontview.vcxproj |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30

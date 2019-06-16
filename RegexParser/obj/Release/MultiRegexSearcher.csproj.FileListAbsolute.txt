@@ -1,0 +1,6 @@
+C:\git\GenerateGraphForStreams\RegexParser\bin\Release\MultiRegexSearcher.dll
+C:\git\GenerateGraphForStreams\RegexParser\bin\Release\MultiRegexSearcher.pdb
+C:\git\GenerateGraphForStreams\RegexParser\obj\Release\MultiRegexSearcher.csprojAssemblyReference.cache
+C:\git\GenerateGraphForStreams\RegexParser\obj\Release\MultiRegexSearcher.csproj.CoreCompileInputs.cache
+C:\git\GenerateGraphForStreams\RegexParser\obj\Release\MultiRegexSearcher.dll
+C:\git\GenerateGraphForStreams\RegexParser\obj\Release\MultiRegexSearcher.pdb

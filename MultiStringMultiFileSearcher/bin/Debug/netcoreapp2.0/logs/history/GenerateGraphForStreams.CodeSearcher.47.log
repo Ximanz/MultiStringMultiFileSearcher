@@ -1,0 +1,2 @@
+2019/06/11 19:47:55.437|INFO|Searching for DB relationships from Tables to Views in 8 files. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/11 19:47:57.246|INFO|Searching for DB relationships from Tables to StoredProcedures in 2397 files. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10

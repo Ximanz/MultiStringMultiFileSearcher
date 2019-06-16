@@ -1,0 +1,2 @@
+2019/06/12 09:03:12.833|INFO|Building Deterministic Finite Automaton for Functions. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10
+2019/06/12 09:03:17.230|INFO|Searching for DB relationships from Tables to Views in 446 files. |GenerateGraphForStreams.CodeSearcher|EventId_Id=10, EventId=10

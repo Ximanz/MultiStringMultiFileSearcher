@@ -1,0 +1,17 @@
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\AppConfig.cs
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\appsettings.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\NLog.config
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\GenerateGraphForStreams.deps.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\GenerateGraphForStreams.runtimeconfig.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\GenerateGraphForStreams.runtimeconfig.dev.json
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\GenerateGraphForStreams.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\GenerateGraphForStreams.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\MultiRegexSearcher.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\bin\Release\netcoreapp2.0\MultiRegexSearcher.pdb
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.csprojAssemblyReference.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.csproj.CoreCompileInputs.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.AssemblyInfoInputs.cache
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.AssemblyInfo.cs
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.csproj.CopyComplete
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.dll
+C:\git\GenerateGraphForStreams\GenerateGraphForStreams\obj\Release\netcoreapp2.0\GenerateGraphForStreams.pdb

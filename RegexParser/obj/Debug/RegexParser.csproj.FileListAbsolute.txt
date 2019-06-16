@@ -1,0 +1,5 @@
+c:\users\farhad\documents\visual studio 2012\Projects\RegexParser\RegexParser\obj\Debug\RegexParser.csprojResolveAssemblyReference.cache
+c:\users\farhad\documents\visual studio 2012\Projects\RegexParser\RegexParser\bin\Debug\RegexParser.dll
+c:\users\farhad\documents\visual studio 2012\Projects\RegexParser\RegexParser\bin\Debug\RegexParser.pdb
+c:\users\farhad\documents\visual studio 2012\Projects\RegexParser\RegexParser\obj\Debug\RegexParser.dll
+c:\users\farhad\documents\visual studio 2012\Projects\RegexParser\RegexParser\obj\Debug\RegexParser.pdb

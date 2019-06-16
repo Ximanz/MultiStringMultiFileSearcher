@@ -1,0 +1,292 @@
+2019/06/10 13:26:53.323|ERROR|An error occurred Can't parse details for c:\git\streams\lib\as\WebServiceSupport\TestWebService\Service1.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:26:53.645|ERROR|An error occurred Can't parse details for c:\git\streams\ptd\ptd\PtdIncidentWebSvc\PtdIncidentList.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:26:53.864|ERROR|An error occurred Can't parse details for c:\git\streams\rte\as\InstRoutePerf\Service.asmx.|GenerateGraphForStreams.CodeSearcher|EventId_Id=20, EventId=20
+2019/06/10 13:30:42.365|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:38:35.123|WARN|Can't find project for c:\git\streams\ac\common\wsdl\ac.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:38:35.315|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.714|WARN|Can't find project for c:\git\streams\ac\ws\AccessControl.Workstation\Web References\ADUserImportWebSvc\ADUserImport.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.752|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.752|WARN|Can't find project for c:\git\streams\ac\ws\AccessControl.Workstation\Web References\WSAccessWebSvc\Permission.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.772|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.800|WARN|Can't find project for c:\git\streams\ac\ws\Security\Web References\ACWebServicePermission\Permission.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.846|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.861|WARN|Can't find project for c:\git\streams\aid\ws\AIDCAReportClient\Web References\AIDCARWebRef\AIDCAReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.915|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:43.988|WARN|Can't find project for c:\git\streams\am\ws\AppManagement.Workstation\Web References\PSWebService\PackageSpecificationWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.047|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.085|WARN|Can't find project for c:\git\streams\anpr\test\AnprWsTest\Web References\QpsWebService\BUCService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.085|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.099|WARN|Can't find project for c:\git\streams\anpr\ws\AutoNumPlateRec.Workstation\Web References\NevdisWebService\NevdisImportService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.158|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.189|WARN|Can't find project for c:\git\streams\core\ws\FileUploader\Web References\FileUploaderWebSvc\FileUploaderWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.254|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.259|WARN|Can't find project for c:\git\streams\dms\as\RoadCondSignWebSvc\RoadCondSignWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.271|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.300|WARN|Can't find project for c:\git\streams\dms\common\wsdl\dms.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.333|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.333|WARN|Can't find project for c:\git\streams\dms\common\wsdl\RoadCondSign.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.357|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.367|WARN|Can't find project for c:\git\streams\dms\test\RoadCondSignTest\Web References\WebService\RoadCondSign.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.367|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.367|WARN|Can't find project for c:\git\streams\dms\ws\DMSITReportClient\Web References\DMSITRWebSvcRef\DMSITReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.393|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.407|WARN|Can't find project for c:\git\streams\dms\ws\dmsmimage\Web References\DMSMImageWebRef\DMSMImageWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.503|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.511|WARN|Can't find project for c:\git\streams\dms\ws\DynMessSign.Workstation\Web References\DMSMImageWebSvc\DMSMImageWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.511|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.530|WARN|Can't find project for c:\git\streams\ds\common\wsdl\ds.DSService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.551|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.561|WARN|Can't find project for c:\git\streams\ds\common\wsdl\qd.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.578|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.590|WARN|Can't find project for c:\git\streams\ds\ws\VCTReportClient\Web References\VCTRWeb\VCTestReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.602|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.674|WARN|Can't find project for c:\git\streams\em\common\wsdl\wgb.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.773|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.804|WARN|Can't find project for c:\git\streams\em\ws\EnvMonitor.Workstation\Web References\WgbLightsWebservice\em.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.874|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:44.937|WARN|Can't find project for c:\git\streams\er\as\notifysvc\notify.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.004|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.044|WARN|Can't find project for c:\git\streams\er\common\wsdl\alarm.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.146|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.181|WARN|Can't find project for c:\git\streams\er\common\wsdl\event.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.213|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.225|WARN|Can't find project for c:\git\streams\er\common\wsdl\notify.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.264|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.264|WARN|Can't find project for c:\git\streams\er\test\erDataServiceTestClient\Web References\erDataService\ErDataService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.286|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.312|WARN|Can't find project for c:\git\streams\er\ws\erpp\Web References\RAIService\RAIService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.332|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.359|WARN|Can't find project for c:\git\streams\er\ws\ErTypes2\Web References\EAMDataService\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.388|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.388|WARN|Can't find project for c:\git\streams\esls\common\wsdl\esls.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.420|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.438|WARN|Can't find project for c:\git\streams\fr\common\wsdl\fr.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.458|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.458|WARN|Can't find project for c:\git\streams\fr\ws\FieldResponse.Workstation\Web References\WeatherAlgoRptSvc\WeatherAlgoRptSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.479|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.502|WARN|Can't find project for c:\git\streams\fr\ws\FieldResponse.Workstation\Web References\WeatherResponseService\WeatherResponseService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.536|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.562|WARN|Can't find project for c:\git\streams\ig\ws\IGWebServiceClient\Web References\Scheduling\Service1.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.592|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.599|WARN|Can't find project for c:\git\streams\im\common\wsdl\mail.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.620|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.630|WARN|Can't find project for c:\git\streams\install\as\IisSetupIntegrationTests\Service References\Permission\Permission.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.662|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.662|WARN|Can't find project for c:\git\streams\int\common\wsdl\intctrlr.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.684|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.704|WARN|Can't find project for c:\git\streams\int\common\wsdl\intv.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.720|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.748|WARN|Can't find project for c:\git\streams\int\common\wsdl\tsi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.783|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.786|WARN|Can't find project for c:\git\streams\int\test\vppmsgcreate\Web References\WebReference\tsi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.817|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.824|WARN|Can't find project for c:\git\streams\int\test\vpptestserver\tsi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.853|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:45.936|WARN|Can't find project for c:\git\streams\int\test\vtirstub\Service References\tsi\tsi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.008|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.049|WARN|Can't find project for c:\git\streams\int\ws\ICABulkExportTool\ICABulkExport\Web References\ICAWebSrv\ICAWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.093|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.093|WARN|Can't find project for c:\git\streams\int\ws\ICAClient\Web References\ICAWebSrv\ICAWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.144|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.197|WARN|Can't find project for c:\git\streams\int\ws\Intersection.Workstation\Web References\VppWebService\VppReportsService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.235|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.262|WARN|Can't find project for c:\git\streams\int\ws\IOGD\Web References\IOGDSvc\IOGDWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.278|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.316|WARN|Can't find project for c:\git\streams\itl\common\wsdl\itl.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.347|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.361|WARN|Can't find project for c:\git\streams\itl\ws\InterlockingManager\Web References\ItlService\ItlService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.436|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.453|WARN|Can't find project for c:\git\streams\lib\test\WebProxyTester\Web References\DBWebService\FetchDb.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.495|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.495|WARN|Can't find project for c:\git\streams\lib\test\WebProxyTester\Web References\ItlWebService\ItlService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.546|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.557|WARN|Can't find project for c:\git\streams\lib\test\WebProxyTester\Web References\PackageLoader\PackageLoader.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.574|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.593|WARN|Can't find project for c:\git\streams\lib\test\WebProxyTester\Web References\RequestValicationService\RequestValidationService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.619|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.619|WARN|Can't find project for c:\git\streams\lib\test\WebProxyTester\Web References\RoadCondWebSvc\RoadCondWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.658|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.671|WARN|Can't find project for c:\git\streams\lib\test\WebProxyTester\Web References\TEMService\TEMService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.697|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.709|WARN|Can't find project for c:\git\streams\lib\ws\DBUtil\Web References\Transition\GenericAccess.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.749|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.762|WARN|Can't find project for c:\git\streams\lib\ws\SettingsUtil\Web References\UserSettingsWebSvc\UserSettingsWebService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.788|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.788|WARN|Can't find project for c:\git\streams\lib\ws\sxbase\Web References\ACWebService\Permission.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.816|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.831|WARN|Can't find project for c:\git\streams\lib\ws\SXPP\Web References\AutoCompleterWebService\AutoCompleterWebService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.867|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.867|WARN|Can't find project for c:\git\streams\lums\common\wsdl\lumssite.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.908|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.921|WARN|Can't find project for c:\git\streams\lums\ws\LaneUseMgmtSignal.Workstation\Web References\LumsRequestHistoryRptService\LumsRequestHistoryRptService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.968|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:46.988|WARN|Can't find project for c:\git\streams\lums\ws\LaneUseMgmtSignal.Workstation\Web References\RequestLogService\RequestLogService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.017|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.030|WARN|Can't find project for c:\git\streams\lums\ws\LaneUseMgmtSignal.Workstation\Web References\SpeedMeasuresSvc\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.051|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.058|WARN|Can't find project for c:\git\streams\lums\ws\LaneUseMgmtSignal.Workstation\Web References\TransitionReportSvc\SignTransitionReportService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.078|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.096|WARN|Can't find project for c:\git\streams\msd\common\wsdl\wr.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.120|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.146|WARN|Can't find project for c:\git\streams\mvt\ws\MPMReport\Web References\MPMRWebService\MPMRWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.163|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.188|WARN|Can't find project for c:\git\streams\npi\common\wsdl\npi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.229|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.229|WARN|Can't find project for c:\git\streams\npi\ws\NationalPerformanceIndicator.Workstation\Web References\NPIHMReportWebSvc\NPIHMReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.269|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.272|WARN|Can't find project for c:\git\streams\npi\ws\recalc\Web References\npicInt\npi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.297|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.297|WARN|Can't find project for c:\git\streams\pd\ws\PDHFReportClient\Web References\PDHFReportWebRef\PDHFReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.326|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.341|WARN|Can't find project for c:\git\streams\pg\ws\ParkGuidance.Workstation\Web References\ParkGuidanceWebSvc\PGWebService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.359|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.366|WARN|Can't find project for c:\git\streams\pkg\ws\ppl\Web References\PackageServer\PackageLoader.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.408|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.425|WARN|Can't find project for c:\git\streams\pm\common\wsdl\fp.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.456|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.481|WARN|Can't find project for c:\git\streams\pm\ws\PlatformManagement.Workstation\Web References\FaultLogReportSvc\FaultLogReportService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.515|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.515|WARN|Can't find project for c:\git\streams\ps\as\pssvc\WSDL\EnhancedCenter2CenterService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.531|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.548|WARN|Can't find project for c:\git\streams\ps\common\wsdl\chat.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.585|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.585|WARN|Can't find project for c:\git\streams\pt\ws\PTPTReportClient\Web References\PTPTRWebRef\PTPTReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.637|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.671|WARN|Can't find project for c:\git\streams\pt\ws\PublicTransport.Workstation\Web References\PTTripPerformanceRptSvc\PTTripPerformanceRptSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.709|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.709|WARN|Can't find project for c:\git\streams\pt\ws\ScheduleImport\Web References\ImporterSvc\ScheduleImporter.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.761|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.761|WARN|Can't find project for c:\git\streams\ptd\ptd\PtdInterface\Web References\PtdService\WcfService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.788|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.812|WARN|Can't find project for c:\git\streams\ptd\ptd\ptdsvc\Web References\PtdWebService\PtdWebService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.836|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.884|WARN|Can't find project for c:\git\streams\ptd\test\PtdIncidentWebSvcTest\Web References\PtdIncidentWebSvc\PtdIncidentList.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.923|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.932|WARN|Can't find project for c:\git\streams\ptd\test\PtdIncidentWebSvcTest\Web References\PublicTrafficData\PtdIncidentList.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:47.962|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.008|WARN|Can't find project for c:\git\streams\ride\common\wsdl\alarm.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.044|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.063|WARN|Can't find project for c:\git\streams\ride\common\wsdl\icestation.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.121|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.121|WARN|Can't find project for c:\git\streams\rm\common\wsdl\extalgo.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.154|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.162|WARN|Can't find project for c:\git\streams\rm\common\wsdl\rm.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.162|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.177|WARN|Can't find project for c:\git\streams\rm\ws\FwyRampPerfRpt\Web References\ReportWebService\RMPerformanceReports.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.226|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.266|WARN|Can't find project for c:\git\streams\rm\ws\FwyRoutePerfRpt\Web References\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.301|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.331|WARN|Can't find project for c:\git\streams\rm\ws\FwyRoutePerfRpt\Web References\ReportWebService\RMPerformanceReports.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.380|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.391|WARN|Can't find project for c:\git\streams\rm\ws\RampManagement.Workstation\Web References\RMOffRampSiteWebSvc\RMOffRampSiteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.414|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.446|WARN|Can't find project for c:\git\streams\rm\ws\RampManagement.Workstation\Web References\RMRouteWebSvc\RMRouteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.486|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.502|WARN|Can't find project for c:\git\streams\rm\ws\RampManagement.Workstation\Web References\RMSCATSWebSvc\RMSCATSWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.539|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.554|WARN|Can't find project for c:\git\streams\rm\ws\RampManagement.Workstation\Web References\RMSiteWebSvc\RMSiteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.597|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.614|WARN|Can't find project for c:\git\streams\rm\ws\RampMeteringRpt\Web References\ReportWebService\RMPerformanceReports.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.677|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.698|WARN|Can't find project for c:\git\streams\rm\ws\rmpp\Web References\RMOffRampSiteWebSvc\RMOffRampSiteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.714|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.748|WARN|Can't find project for c:\git\streams\rm\ws\rmpp\Web References\RMRouteWebSvc\RMRouteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.779|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.810|WARN|Can't find project for c:\git\streams\rm\ws\rmpp\Web References\RMWebSvc\RMSiteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.863|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.899|WARN|Can't find project for c:\git\streams\rp\as\rpsvc\RPManagerInterface.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.952|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:48.952|WARN|Can't find project for c:\git\streams\rp\ws\HistRPRpt\Web References\HistRPRptSvc\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.004|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.025|WARN|Can't find project for c:\git\streams\rp\ws\RP.Data\Web References\RPWebService\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.070|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.096|WARN|Can't find project for c:\git\streams\rp\ws\rppp\Web References\RPWebSvc\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.140|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.152|WARN|Can't find project for c:\git\streams\rte\ws\InstRoutePerf.Model\Web References\LayoutService\InstRoutePerf.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.181|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.195|WARN|Can't find project for c:\git\streams\rte\ws\RPMRClient\Web References\RPMRWebService\RPMRWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.257|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.257|WARN|Can't find project for c:\git\streams\s2s\as\s2ssvc\NTCIP\System2System.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.324|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.347|WARN|Can't find project for c:\git\streams\schm\ws\Schematics.Workstation\Web References\SchematicsWebSvc\SchematicsService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.377|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.387|WARN|Can't find project for c:\git\streams\si\common\wsdl\si.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.411|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.411|WARN|Can't find project for c:\git\streams\sm\ws\SMCopySchedule\Web References\localhost\Service1.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.459|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.475|WARN|Can't find project for c:\git\streams\sm\ws\smpp\Web References\AMWebSvc\RecurrencePatternWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.536|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.587|WARN|Can't find project for c:\git\streams\sm\ws\smpp\Web References\SMWebSvc\SMSiteWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.635|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.635|WARN|Can't find project for c:\git\streams\sm\ws\StrategyManagement.Workstation\Web References\RequestValidationWebSvc\RequestValidationService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.665|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.689|WARN|Can't find project for c:\git\streams\sm\ws\StrategyManagement.Workstation\Web References\ServicePushbuttonRPStimuliWebSvc\ServicePushbuttonRPStimuli.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.711|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.738|WARN|Can't find project for c:\git\streams\tem\as\LocationLoggerService\Web References\VicRoadsLocationLoggerService\Service.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.808|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.808|WARN|Can't find project for c:\git\streams\tem\as\RTTIWebSvc\Web References\PlannedEventService\PlannedEventService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.860|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.887|WARN|Can't find project for c:\git\streams\tem\as\RTTIWebSvc\Web References\VicRoadsRttiEventStatusService\RTTIStatusWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.922|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.938|WARN|Can't find project for c:\git\streams\tem\as\TEMWebSvc\Web References\RTTIEventStatusService\RTTIEventStatusService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.985|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:49.991|WARN|Can't find project for c:\git\streams\tem\common\wsdl\tem.C2CService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.039|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.068|WARN|Can't find project for c:\git\streams\tem\common\wsdl\tem.PlannedEventService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.160|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.173|WARN|Can't find project for c:\git\streams\tem\common\wsdl\tem.RTTIService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.204|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.234|WARN|Can't find project for c:\git\streams\tem\common\wsdl\tem.RTTIStatusService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.296|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.314|WARN|Can't find project for c:\git\streams\tem\common\wsdl\tem.VicWeatherAlgService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.349|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.358|WARN|Can't find project for c:\git\streams\tem\ws\TrafficEventMgmt.Workstation\Web References\TEMWebSvc\TEMService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.392|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.415|WARN|Can't find project for c:\git\streams\tem\ws\TrafficEventMgmt.Workstation\Web References\WeatherResponseService\WeatherResponseService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.415|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.452|WARN|Can't find project for c:\git\streams\tgp\ws\tpsc\Web References\GPWebSvc\GPWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.537|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.592|WARN|Can't find project for c:\git\streams\tn\common\wsdl\region.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.638|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.638|WARN|Can't find project for c:\git\streams\tn\common\wsdl\tn.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.675|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.691|WARN|Can't find project for c:\git\streams\tn\ws\TNLibrary\Web References\localhost\FetchDb.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.721|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.728|WARN|Can't find project for c:\git\streams\tn\ws\tnmap\Web References\MapFileUploaderWebService\MapFileUploader.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.752|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.782|WARN|Can't find project for c:\git\streams\tn\ws\TransportNetwork.Workstation\Web References\RegionWebSvc\RegionUpdateService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.873|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.873|WARN|Can't find project for c:\git\streams\tools\common\ReportingServicesLoader\Web References\ReportingServices\ReportService2005.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.921|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.947|WARN|Can't find project for c:\git\streams\tools\loadtest\VPPLoadTest\Web References\TsiWebReference\tsi.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.965|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:50.980|WARN|Can't find project for c:\git\streams\tt\common\wsdl\tt.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.016|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.039|WARN|Can't find project for c:\git\streams\tt\ws\TravelTime.Workstation\Web References\localhost\TTMsgWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.093|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.093|WARN|Can't find project for c:\git\streams\tt\ws\TravelTime.Workstation\Web References\TTMsgWebSvc\TTMsgWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.111|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.169|WARN|Can't find project for c:\git\streams\vc\ws\vcr\Web References\ReportsWebService\VehicleCountingWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.201|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.220|WARN|Can't find project for c:\git\streams\vc\ws\VehicleCount.Workstation\Web References\VCReports\VCReportsWebService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.263|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.281|WARN|Can't find project for c:\git\streams\vc\ws\VehicleCount.Workstation\Web References\VCReports\VCReportsWebService0.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.326|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.338|WARN|Can't find project for c:\git\streams\vc\ws\VehicleCount.Workstation\Web References\VCWebSvc\VehicleCountingWebsvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.375|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.394|WARN|Can't find project for c:\git\streams\vd\common\wsdl\vddata.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.410|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.431|WARN|Can't find project for c:\git\streams\vd\ws\FMSDRRClient\Web References\FMSDRRWeb\FMSDRRWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.461|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.461|WARN|Can't find project for c:\git\streams\vd\ws\VCDClient\Web References\VCDWebRef\VehClassWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.509|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.527|WARN|Can't find project for c:\git\streams\vd\ws\VDHFReport\Web References\VDHFRReportSrv\VDHFReportWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.550|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.576|WARN|Can't find project for c:\git\streams\vd\ws\VehicleDetector.Workstation\Web References\VDTrendReportWebSvc\TrendReportWebService.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.606|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.620|WARN|Can't find project for c:\git\streams\vid\ws\VIDHIERClient\Web References\WSVIDHERReportData\VIDHIERWebSvc.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.667|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.697|WARN|Can't find project for c:\git\streams\vsl\common\wsdl\vsl.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.731|WARN|Could not find the project directory for c:\. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:43:51.774|WARN|Can't find project for c:\git\streams\vsl\ws\VslHistoricalReport\Web References\ReportWebService\SpeedHistory.wsdl. |GenerateGraphForStreams.CodeSearcher|EventId_Id=30, EventId=30
+2019/06/10 13:44:38.028|ERROR|Stopped program because of exception parsing '\' - Illegal \\ at end of pattern.|GenerateGraphForStreams.Program|
